@@ -15,6 +15,7 @@
 - Sass
 - Typescript
 - Axios
+- Vite
 
 *backend*
 - Python
