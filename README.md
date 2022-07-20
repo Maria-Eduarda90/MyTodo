@@ -48,7 +48,7 @@ $ (env) pip install -r requirements.txt
 python -m venv venv
 
 # Ativar (windows)
-$ venv/Scripts/Activate
+$ venv\Scripts\Activate
 
 # Rodar o servidor
 $ python manage.py runserver
