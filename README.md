@@ -34,7 +34,7 @@
 # Acesse a pasta do projeto no terminal/cmd
 $ cd MyTodo
 
-# Vá para a pasta server
+# Vá para a pasta backend
 $ cd backend
 
 # Instalar bibliotecas, instalar requerimentos
