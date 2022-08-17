@@ -77,5 +77,5 @@ $ npm run dev
 </h1>
 
 <h1 align="center">
-<img alt="todo" title="#todo" src="./frontend/src/assets/todo.png" />
+<img alt="MyTodo" title="#MyTodo" src="./frontend/src/assets/todo.png" />
 </h1>
