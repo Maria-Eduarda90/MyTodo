@@ -39,6 +39,9 @@ $ cd backend
 
 # Instalar bibliotecas, instalar requerimentos
 $ (env) pip install django
+$ (env) pip install python-dotenv
+$ (env) pip install djangorestframework
+$ (env) python -m pip install django-cors-headers
 $ (env) pip freeze > requirements.txt
 $ (env) pip install -r requirements.txt
 
