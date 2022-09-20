@@ -66,7 +66,7 @@ $ python manage.py runserver
 $ cd frontend
 
 # Instale as dependências
-$ npm install
+$ npm i
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
